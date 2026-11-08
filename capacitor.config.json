@@ -1,0 +1,6 @@
+{
+  "appId": "com.hsk5.app",
+  "appName": "HSK 5",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
